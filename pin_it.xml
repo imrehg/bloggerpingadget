@@ -1,16 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?> 
 <Module>
-<ModulePrefs height="300" title="Pin it (unofficial)">
-  <Require feature="google.blog"/>
-  <Require feature="skins"/>
-  <Require feature="views"/>
- </ModulePrefs>
- <Content type="html">
-   <![CDATA[
-  Well, hello there!
-  ]]>
-
+  <ModulePrefs title="Pin it (unofficial)" />
+  <Content type="html">
+     <![CDATA[
+       Hello, world!
+     ]]>
   </Content>
 </Module>
-
-
