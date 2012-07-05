@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <Module>
-  <ModulePrefs title="Pin it (unofficial)" />
+  <ModulePrefs title="Pin it (unofficial)"
+               author="Gergely Imreh"
+               author_email="imrehg@google.com"/>
   <Content type="html">
      <![CDATA[
        Hello, world!
